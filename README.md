@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @masoud-abdi
 - 👀 I’m interested in studying science
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on a university.
 - 📫 How to reach me (email: masoudabdi789@ut.ac.ir)
 <!---
